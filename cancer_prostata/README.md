@@ -1,4 +1,4 @@
-# Carboxamidas Inibidoras de HIV-1 Integrase
+# Inibidores da 17β-HSD3 - Tratamento de Câncer de Próstata (2012)
 
 Este dataset foi utilizado no estudo 4D-QSAR receptor independente para inibidores da enzima 17β-hidroxiesteroide desidrogenase tipo 3 (17β-HSD3), um alvo relevante no tratamento do câncer de próstata. A 17β-HSD3 é responsável pela conversão de androstenediona em testosterona, e sua inibição pode reduzir os níveis de androgênios, hormônios essenciais para o crescimento prostático.
 
@@ -24,3 +24,4 @@ As atividades biológicas experimentais estão no arquivo `atividades.csv`, que 
 Os dados presentes neste dataset foram extraídos de:
 
 - Martins, J. P. A. & de Melo, E. B. (2019). *4D-QSAR Study of 17β-Hydroxysteroid Dehydrogenase Type 3 Inhibitors*. J. Braz. Chem. Soc., 30(7), 1548–1557.
+- Harada,  K.;  Kubo,  H.; Abe,  J.;  Haneta,  M.;  Conception, A.;  Inoue, S.; Okada, S.; Nishioka, K.; Bioorg. Med. Chem. 2012, 20, 3242.
