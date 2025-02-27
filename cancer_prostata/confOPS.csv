@@ -1,0 +1,20 @@
+Input directory,/home/jpam/cancer_prostata
+X matrix,matriz4.csv
+y matrix,atividades.txt
+Variance cut,0.1
+Correlation cut,0.4
+Number of latent variables for OPS,
+Number of latent variables for the model,
+OPS window,2
+OPS increment,1
+Percentage of variables to be evaluated in OPS,100
+Number of models to be saved,100
+Y-randomization criteria,0.3
+Leave-N-out criteria,0.1
+Output directory,/home/jpam/cancer_prostata
+Output matrix file,XselOPS4.csv
+Output cross validation file,saida_cvOPS4.csv
+Output models file,saida_modelsOPS4.txt
+Autoscale,yes
+Lennard-Jones data transformation,no
+Auto correlation cut,0.9

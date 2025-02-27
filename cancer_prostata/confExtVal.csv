@@ -1,0 +1,15 @@
+Input directory,/home/jpam/cancer_prostata
+X matrix,XselOPS10.csv
+y matrix,atividades.txt
+Test set,"26,33,39,43,45,2,11,15,19,20"
+Number of latent variables for the model,
+Output directory,/home/jpam/cancer_prostata
+Output external validation file,ext_valOPS10.csv
+Output cross validation training set file,cv_ext_valOPS10.csv
+Output training set X matrix,XtrainOPS10.csv
+Output training set y matrix,ytrainOPS10.csv
+Output test set X matrix,XtestOPS10.csv
+Output test set y matrix,ytestOPS10.csv
+Autoscale,yes
+Lennard-Jones data transformation,no
+Type of external validation,1

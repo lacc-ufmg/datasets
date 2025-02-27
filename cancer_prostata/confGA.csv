@@ -1,0 +1,23 @@
+Input directory,/home/jpam/google_drive/cancer_prostata
+X matrix,matriz2.csv
+y matrix,atividades.txt
+Variance cut,0.1
+Correlation cut,0.35
+Maximum number of latent variables in the model,
+Minimum number of variables in the model,4
+Maximum number of variables in the model,25
+Size of the population in each generation of the GA,500
+Migration rate in GA,0.2
+Crossover rate of population,0.5
+Mutation rate of the population,0.2
+Number of generations in GA,300
+Y-randomization criteria,0.3
+Leave-N-out criteria,0.1
+Output directory,/home/jpam/google_drive/cancer_prostata/resultados
+Output matrix file,Xsel2GA.csv
+Output cross validation file,saida_cv2GA.csv
+Output Q2 file,Q2_out2GA.json
+Output variables selected file,Pop_out2GA.json
+Autoscale,yes
+Lennard-Jones data transformation,no
+Auto correlation cut,0.9
